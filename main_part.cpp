@@ -11,7 +11,7 @@ int main() {
 
     bool checkExit =false;
 
-    while (checkExit == false) {
+    while (checkExit ==true) {
         cout << "Введите число:" << endl
             << "1-разница значений кодов в ASCII" << endl
             << "2-разница значений кодов в Windows-1251" << endl

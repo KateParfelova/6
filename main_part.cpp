@@ -9,7 +9,7 @@ int main() {
 
     setlocale(LC_ALL, "Russian");
 
-    bool checkExit =true;
+    bool checkExit =false;
 
     while (checkExit == false) {
         cout << "Введите число:" << endl
